@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me
-- Mail me at npatil.2021@gmail.com
+      - Mail me at npatil.2021@gmail.com
 
 <!---
 Nit-25/Nit-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
